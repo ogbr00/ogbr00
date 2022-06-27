@@ -36,6 +36,9 @@ I leaped into action and started learning React.JS and MongoDB and Express. Toda
 ##### Tools and Software
 <code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/></code>
 
+<br />
+
+<img src="https://discord.c99.nl/widget/theme-4/913511184190291978.png" alt="Discord"/>
 
 <br /><br /><br /><br />
 
