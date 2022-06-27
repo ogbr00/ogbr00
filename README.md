@@ -6,7 +6,7 @@
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 My Name is Bro
-I started as a javascript developer back in 2010 when I was offered a chance to take over the development of a Discord Bot called Vetex.
+I started as a javascript developer back in 2020 when I was offered a chance to take over the development of a Discord Bot called Vetex.
 I leaped into action and started learning React.JS and MongoDB and Express. Today I'm working on lots of different side projects mainly using JavaScript.
 
 
