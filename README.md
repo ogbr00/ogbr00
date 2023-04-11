@@ -38,7 +38,7 @@ I leaped into action and started learning React.JS and MongoDB and Express. Toda
 
 <br />
 
-<p align="center"><img align="center" src="https://discord.c99.nl/widget/theme-4/913511184190291978.png"><p/>
+<p align="center"><img align="center" src="https://discord.c99.nl/widget/theme-4/1073511160273453087.png"><p/>
 
 <br /><br /><br /><br />
 
